@@ -1,0 +1,45 @@
+.menu {
+	overflow: hidden;
+	background-color: #000;
+	position: fixed; 
+	top: 0; 
+	width: 100%; 
+}
+
+.menu a {
+	float: left;
+	display: block;
+	color: #FFF;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background: #ddd;
+	color: black;
+}
+
+.mainbody {
+	margin-top: 50px;
+}
+
+.intro {
+	color: #85A1F5;
+}
+
+.likelist {
+	color: #21D661;
+}
+
+.badlist {
+	color: #CF382A;
+}
+
+.wutilike {
+	color: #85A1F5;
+}
+
+body {
+	background: #E2F991;
+}
